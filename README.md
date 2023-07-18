@@ -1,3 +1,5 @@
+<img src="https://imgur.com/EuHngvH">
+
 ### Hi there 👋
 
 🌱currently trying to make lofi related projects
